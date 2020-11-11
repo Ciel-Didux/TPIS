@@ -37,3 +37,10 @@ pytest tests/tests.py
 pipenv run pytest tests/tests.py >> results.txt
 pipenv run python app.py append >> results.txt
 ```
+7. Закомітив до репозиторію Makefile
+   + Створив Makefile
+   + Заповнив мейкфайл
+   + Запустив мейкфайл
+   ```
+   make
+   ```

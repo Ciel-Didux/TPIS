@@ -18,6 +18,6 @@ run:
 
 deploy:
 	@echo "Adding and Committing results.txt to git."
-	git add results.txt
-	git commit -m "Lab2: автоматичне оновлення results.txt"
+	git add .
+	git commit -m "Lab2: автоматичне оновлення через make"
 	git push
