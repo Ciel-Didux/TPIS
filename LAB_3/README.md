@@ -21,8 +21,8 @@ pipenv run django-admin startproject site_lab3
 ```
 3. Створив потрібні папки та файли.
 4. Перевірив, як працюють сторінки `127.0.0.1:8000` та `127.0.0.1:8000/health`:<br/>
-![Frog](../image/lab3/1.jpg)
-![Frog](../image/lab3/2.jpg)
+![Frog](../image/lab3/1.png)
+![Frog](../image/lab3/2.png)
 5. Створив файл monitoring.py та встановив бібліотеку:
 ```
 pipenv install requests
