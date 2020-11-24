@@ -1,0 +1,160 @@
+ERROR 2020-11-24 17:23:41,678 root : Немає доступу до сервера: 
+ERROR 2020-11-24 17:24:41,725 root : Немає доступу до сервера: 
+ERROR 2020-11-24 17:25:41,784 root : Немає доступу до сервера: 
+ERROR 2020-11-24 17:26:41,798 root : Немає доступу до сервера: 
+ERROR 2020-11-24 17:27:41,805 root : Немає доступу до сервера: 
+ERROR 2020-11-24 17:28:41,866 root : Немає доступу до сервера: 
+INFO 2020-11-24 17:35:24,008 root : Сервер доступний. Час на сервері: 24/11/2020 15:35:24
+INFO 2020-11-24 17:35:24,008 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:35:24,008 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:35:24,008 root : Ключ: date, Значення: 24/11/2020 15:35:24
+INFO 2020-11-24 17:35:24,008 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:35:24,008 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:35:24,008 root : Ключ: client_info, Значення: python-requests/2.25.0
+INFO 2020-11-24 17:38:29,038 root : Сервер доступний. Час на сервері: 24/11/2020 15:38:29
+INFO 2020-11-24 17:38:29,038 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:38:29,038 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:38:29,038 root : Ключ: date, Значення: 24/11/2020 15:38:29
+INFO 2020-11-24 17:38:29,038 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:38:29,038 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:38:29,038 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:42:13,831 root : Сервер доступний. Час на сервері: 24/11/2020 15:42:13
+INFO 2020-11-24 17:42:13,831 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:42:13,831 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:42:13,831 root : Ключ: date, Значення: 24/11/2020 15:42:13
+INFO 2020-11-24 17:42:13,831 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:42:13,831 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:42:13,832 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:43:13,902 root : Сервер доступний. Час на сервері: 24/11/2020 15:43:13
+INFO 2020-11-24 17:43:13,902 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:43:13,902 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:43:13,902 root : Ключ: date, Значення: 24/11/2020 15:43:13
+INFO 2020-11-24 17:43:13,902 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:43:13,902 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:43:13,902 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:44:13,973 root : Сервер доступний. Час на сервері: 24/11/2020 15:44:13
+INFO 2020-11-24 17:44:13,973 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:44:13,973 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:44:13,973 root : Ключ: date, Значення: 24/11/2020 15:44:13
+INFO 2020-11-24 17:44:13,973 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:44:13,973 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:44:13,973 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:45:14,040 root : Сервер доступний. Час на сервері: 24/11/2020 15:45:14
+INFO 2020-11-24 17:45:14,040 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:45:14,040 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:45:14,040 root : Ключ: date, Значення: 24/11/2020 15:45:14
+INFO 2020-11-24 17:45:14,040 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:45:14,041 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:45:14,041 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:46:14,077 root : Сервер доступний. Час на сервері: 24/11/2020 15:46:14
+INFO 2020-11-24 17:46:14,077 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:46:14,077 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:46:14,077 root : Ключ: date, Значення: 24/11/2020 15:46:14
+INFO 2020-11-24 17:46:14,077 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:46:14,077 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:46:14,077 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:47:14,101 root : Сервер доступний. Час на сервері: 24/11/2020 15:47:14
+INFO 2020-11-24 17:47:14,101 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:47:14,101 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:47:14,101 root : Ключ: date, Значення: 24/11/2020 15:47:14
+INFO 2020-11-24 17:47:14,101 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:47:14,101 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:47:14,101 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:48:14,172 root : Сервер доступний. Час на сервері: 24/11/2020 15:48:14
+INFO 2020-11-24 17:48:14,172 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:48:14,172 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:48:14,172 root : Ключ: date, Значення: 24/11/2020 15:48:14
+INFO 2020-11-24 17:48:14,173 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:48:14,173 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:48:14,173 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:49:14,190 root : Сервер доступний. Час на сервері: 24/11/2020 15:49:14
+INFO 2020-11-24 17:49:14,190 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:49:14,190 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:49:14,190 root : Ключ: date, Значення: 24/11/2020 15:49:14
+INFO 2020-11-24 17:49:14,190 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:49:14,191 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:49:14,191 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:50:14,248 root : Сервер доступний. Час на сервері: 24/11/2020 15:50:14
+INFO 2020-11-24 17:50:14,248 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:50:14,248 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:50:14,248 root : Ключ: date, Значення: 24/11/2020 15:50:14
+INFO 2020-11-24 17:50:14,248 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:50:14,248 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:50:14,248 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:51:14,263 root : Сервер доступний. Час на сервері: 24/11/2020 15:51:14
+INFO 2020-11-24 17:51:14,263 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:51:14,263 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:51:14,263 root : Ключ: date, Значення: 24/11/2020 15:51:14
+INFO 2020-11-24 17:51:14,263 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:51:14,263 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:51:14,263 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:52:14,328 root : Сервер доступний. Час на сервері: 24/11/2020 15:52:14
+INFO 2020-11-24 17:52:14,328 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:52:14,328 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:52:14,328 root : Ключ: date, Значення: 24/11/2020 15:52:14
+INFO 2020-11-24 17:52:14,328 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:52:14,328 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:52:14,328 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:53:14,395 root : Сервер доступний. Час на сервері: 24/11/2020 15:53:14
+INFO 2020-11-24 17:53:14,395 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:53:14,395 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:53:14,395 root : Ключ: date, Значення: 24/11/2020 15:53:14
+INFO 2020-11-24 17:53:14,395 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:53:14,395 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:53:14,396 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:54:14,467 root : Сервер доступний. Час на сервері: 24/11/2020 15:54:14
+INFO 2020-11-24 17:54:14,467 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:54:14,467 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:54:14,467 root : Ключ: date, Значення: 24/11/2020 15:54:14
+INFO 2020-11-24 17:54:14,468 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:54:14,468 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:54:14,468 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:55:14,522 root : Сервер доступний. Час на сервері: 24/11/2020 15:55:14
+INFO 2020-11-24 17:55:14,522 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:55:14,522 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:55:14,522 root : Ключ: date, Значення: 24/11/2020 15:55:14
+INFO 2020-11-24 17:55:14,522 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:55:14,523 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:55:14,523 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:56:14,558 root : Сервер доступний. Час на сервері: 24/11/2020 15:56:14
+INFO 2020-11-24 17:56:14,558 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:56:14,558 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:56:14,559 root : Ключ: date, Значення: 24/11/2020 15:56:14
+INFO 2020-11-24 17:56:14,559 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:56:14,559 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:56:14,559 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:57:14,574 root : Сервер доступний. Час на сервері: 24/11/2020 15:57:14
+INFO 2020-11-24 17:57:14,574 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:57:14,574 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:57:14,575 root : Ключ: date, Значення: 24/11/2020 15:57:14
+INFO 2020-11-24 17:57:14,575 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:57:14,575 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:57:14,575 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:58:14,636 root : Сервер доступний. Час на сервері: 24/11/2020 15:58:14
+INFO 2020-11-24 17:58:14,636 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:58:14,636 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:58:14,636 root : Ключ: date, Значення: 24/11/2020 15:58:14
+INFO 2020-11-24 17:58:14,636 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:58:14,636 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:58:14,636 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 17:59:14,697 root : Сервер доступний. Час на сервері: 24/11/2020 15:59:14
+INFO 2020-11-24 17:59:14,697 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 17:59:14,697 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 17:59:14,697 root : Ключ: date, Значення: 24/11/2020 15:59:14
+INFO 2020-11-24 17:59:14,697 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 17:59:14,697 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 17:59:14,697 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 18:00:14,723 root : Сервер доступний. Час на сервері: 24/11/2020 16:00:14
+INFO 2020-11-24 18:00:14,724 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 18:00:14,724 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 18:00:14,724 root : Ключ: date, Значення: 24/11/2020 16:00:14
+INFO 2020-11-24 18:00:14,724 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 18:00:14,724 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 18:00:14,724 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2020-11-24 18:01:14,737 root : Сервер доступний. Час на сервері: 24/11/2020 16:01:14
+INFO 2020-11-24 18:01:14,738 root : Запитувана сторінка: : http://localhost:8000/health/
+INFO 2020-11-24 18:01:14,738 root : Відповідь сервера містить наступні поля:
+INFO 2020-11-24 18:01:14,738 root : Ключ: date, Значення: 24/11/2020 16:01:14
+INFO 2020-11-24 18:01:14,738 root : Ключ: current_page, Значення: http://localhost:8000/health/
+INFO 2020-11-24 18:01:14,738 root : Ключ: server_info, Значення: ['Linux', 'ciel-VirtualBox', '5.4.0-52-generic', '#57-Ubuntu SMP Thu Oct 15 10:57:00 UTC 2020', 'x86_64']
+INFO 2020-11-24 18:01:14,738 root : Ключ: client_info, Значення: python-requests/2.22.0
