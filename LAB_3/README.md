@@ -5,10 +5,10 @@
 
 1. За допомогою *Django Framework* створив заготовку проекту та виніс всі створені файли на один рівень вище
 ```
-pipenv run django-admin startproject site_lab3
+pipenv run django-admin startproject test_site
     
-        mv site_lab3/site_lab3/* site_lab3/
-        mv site_lab3/manage.py ./
+        mv test_site/test_site/* test_site/
+        mv test_site/manage.py ./
 ```
 2. Переконався, що все встановилось правильно `pipenv run python manage.py runserver`:
 ```
