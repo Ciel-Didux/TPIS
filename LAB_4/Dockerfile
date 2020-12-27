@@ -1,4 +1,4 @@
-FROM python:3.7-slim
+FROM python:3.9-slim
 
 LABEL author="Ciel"
 LABEL version=1.0
@@ -10,14 +10,14 @@ RUN apt-get update && apt-get upgrade -y
 RUN apt-get install git -y && pip install pipenv
 
 # Створюємо робочу папку
-WORKDIR /lab
+WORKDIR /Lab4
 
 # Завантажуємо файли з Git
-RUN git clone https://github.com/Ciel-Didux/devops_course.git
+RUN git clone https://github.com/Ciel-Didux/TPIS.git
 
 # Створюємо остаточну робочу папку з Веб-сайтом та копіюємо туди файли
 WORKDIR /app
-RUN cp -r /lab/devops_course/lab3/* .
+RUN cp -r /Lab4/TPIS/LAB_3/* .
 
 # Інсталюємо всі залежності
 RUN pipenv install
